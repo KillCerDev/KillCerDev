@@ -20,7 +20,7 @@ Building scalable applications while learning something new every day.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=DeadKilleruwu&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=KillCerDev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -41,12 +41,14 @@ Building scalable applications while learning something new every day.
 - PostgreSQL
 - React
 - Clean Architecture
+- Django
+- JavaScript (Intermediate)
 
 ---
 
 ## 🎯 2026 Goals
 
 - Build a professional backend portfolio
-- Land my first Backend Developer job
+- Land my first Backend/Front Developer job
 
 ---
